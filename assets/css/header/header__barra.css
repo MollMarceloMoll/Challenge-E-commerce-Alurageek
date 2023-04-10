@@ -1,0 +1,41 @@
+.header__barra {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #b8b5b5;
+}
+.header__barra--centro {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 32px 0px;
+    background-color: #FFFFFF;
+}
+.header__barra--izquierda {
+    display: flex;
+    align-items: center;
+    margin-right: 300px;
+}
+.header__barra--logo {
+    margin-right: 10px;
+}
+.header__barra--buscar {
+    margin-right: 10px;
+}
+.header__barra--boton {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+}
+.header__barra--derecha button {
+    border: 1px solid #2A7AE4;
+    color: #2A7AE4;
+    width: 182px;
+    height: 51px;
+    padding: 16px;
+    border-radius: 5px;
+  }

@@ -1,0 +1,42 @@
+.header__banner {
+    position: relative;
+}
+.header__banner--texto {
+    position: absolute;
+    top: 36%;
+    left: 10%;
+    z-index: 1;
+}
+.header__banner--texto h1 {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+.header__banner--texto h3 {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+.header__banner--texto button {
+    width: 129px;
+    height: 51px;
+    padding: 16px;
+    background: #2A7AE4;
+    color: #FFFFFF;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    border: none;
+}
+.header__banner img {
+    width: 100%;
+    height: auto;
+}
