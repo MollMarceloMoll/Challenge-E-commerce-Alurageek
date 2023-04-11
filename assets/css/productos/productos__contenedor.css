@@ -1,0 +1,37 @@
+.productos__contenedor{
+    width: 94%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+.productos__contenedor div {
+    display: inline-block;
+    margin: 1px;
+    text-align: left;
+}
+.productos__contenedor div p {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    color: #464646;
+    
+}
+.productos__contenedor div p p {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #464646;
+}
+.productos__contenedor div a {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #2A7AE4;
+    text-decoration: none;
+}

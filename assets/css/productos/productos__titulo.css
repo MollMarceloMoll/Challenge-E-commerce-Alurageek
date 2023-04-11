@@ -1,12 +1,12 @@
-.starwars__titulo {
-    width: 80%;
+.productos__titulo {
+    width: 90%;
     display: flex;
     justify-content: space-between;
     align-items: center;
     margin-right: auto;
     margin-left: auto;
 }
-.starwars__titulo h2 {
+.productos__titulo h2 {
     font-family: 'Raleway';
     font-style: normal;
     font-weight: 700;
@@ -15,7 +15,7 @@
     color: #464646;
     margin-right: auto;
 }
-.starwars__titulo a {
+.productos__titulo a {
     font-family: 'Raleway';
     font-style: normal;
     font-weight: 700;
@@ -25,7 +25,7 @@
     text-decoration: none;
     margin-left: auto;
 }
-.starwars__titulo a img {
+.productos__titulo a img {
     width: 11px;
     height: 11px;
 }
